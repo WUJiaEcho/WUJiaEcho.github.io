@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi,there! 
+Hi, there! 
 
 This is WU Jia. Welcome to my website! I'm a second year phd student from [Department of Management and Marketing](https://www.polyu.edu.hk/mm/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/),majoring in Management Information Systems (MIS). My research interest includes healthcare, social media and computational socail science.
 
