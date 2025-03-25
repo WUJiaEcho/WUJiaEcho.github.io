@@ -13,9 +13,9 @@ title                    : "WU Jia / Personal Homepage "
 title_separator          : "-"
 name                     : &name "WU Jia"
 description              : &description "a second year phd student from Hong Kong "
-url                      : https://willjoyee.github.io
+url                      : https://WUJiaEcho.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "willjoyee/willjoyee.github.io"
+repository               : "WUJiaEcho/WUJiaEcho.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ repository               : "willjoyee/willjoyee.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "WU Jia"
+  name             : "WU Jia (Echo)"
   pronouns         : # example: "she/her"  
   bio              : "Chase with no fear"
   location         : "Hong Kong"
