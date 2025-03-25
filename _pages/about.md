@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, there! 
 
-This is WU Jia. Welcome to my website! I'm a second year phd student from [Department of Management and Marketing](https://www.polyu.edu.hk/mm/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/),majoring in Management Information Systems (MIS). My research interest includes healthcare, social media and computational socail science.
+This is WU Jia. Welcome to my website! I'm a second year phd student from [Department of Management and Marketing](https://www.polyu.edu.hk/mm/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/),majoring in Management Information Systems (MIS). My research interest includes healthcare, social media and computational social science.
 
 I am very fortunate to be advised by [Prof. Kai LIM](https://www.polyu.edu.hk/mm/people/academic-staff/prof--kai-h-lim/).
 
