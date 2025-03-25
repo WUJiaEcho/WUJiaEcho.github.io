@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof. Kai LIM](https://www.polyu.edu.hk/mm
 
 You can find my CV here: [Jia's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:awetjo.wu@connect.polyu.hk) / [Wechat Account](https://mp.weixin.qq.com/s/RtF_sf8X_ZrIu_dh1tv8AQ) / [Offical Website](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.polyu.edu.hk/mm/people/research-students/ms-jia-wu/)
+[Email](mailto:awetjo.wu@connect.polyu.hk) / [Wechat Account](https://mp.weixin.qq.com/s/RtF_sf8X_ZrIu_dh1tv8AQ) / [Offical Website](https://www.polyu.edu.hk/mm/people/research-students/ms-jia-wu/)
 
 
 
